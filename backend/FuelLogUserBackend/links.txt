@@ -1,0 +1,3 @@
+﻿https://www.tomfaltesek.com/azure-functions-local-settings-json-and-source-control/
+
+https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/migrations/existing-database
