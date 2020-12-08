@@ -354,3 +354,5 @@ MigrationBackup/
 frontend/FuelLog/Data/Migrations/00000000000000_CreateIdentitySchema.cs
 frontend/FuelLog/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
 frontend/FuelLog/Data/Migrations/ApplicationDbContextModelSnapshot.cs
+backend/FuelLogUserBackend/Properties/ServiceDependencies/FuelLogUserBackend - Zip Deploy/profile.arm.json
+frontend/FuelLog/Properties/ServiceDependencies/FuelLogFrontEnd - Web Deploy/profile.arm.json

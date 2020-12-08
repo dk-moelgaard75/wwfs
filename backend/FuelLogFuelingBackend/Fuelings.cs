@@ -48,7 +48,7 @@ namespace FuelLogFuelingBackend
             await _context.Fuelings.AddAsync(fueling);
             await _context.SaveChangesAsync();
 
-            string responseMessage = "Feuling: " + fueling.Milages + "/" + fueling.FuelAmount + "/" + fueling.FuelingDate+" created";
+            string responseMessage = "Fueling - milages:" + fueling.Milages + " - amount:" + fueling.FuelAmount + " - date:" + fueling.FuelingDate+" created";
             return new OkObjectResult(responseMessage);
         
         }

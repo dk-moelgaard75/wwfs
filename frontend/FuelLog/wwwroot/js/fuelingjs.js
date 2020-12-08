@@ -3,7 +3,7 @@
     $('#spinner').hide();
 });
 function DoPostBack() {
-    alert('DoPostBack called');
+    //alert('DoPostBack called');
     var select = document.getElementById("user");
     var option = select.options[select.selectedIndex];
     if (option.value != "-") {
